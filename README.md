@@ -26,7 +26,7 @@
 </p>
 <p align="center">
 <a href="https://github.com/BLAZE-143/FARHAN"><img width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=BLAZE-143&repo=FARHAN&theme=chartreuse-dark"></a>
-<a href="https://github.com/BLAZE-143/FILE"><img width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=BLAZE-143&repo=FILE&theme=chartreuse-dark"></a>
+<a href="https://github.com/BLAZE-143/COMPILE"><img width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=BLAZE-143&repo=COMPILE&theme=chartreuse-dark"></a>
 <a href="https://github.com/BLAZE-143/Random"><img width="400" 
 height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=BLAZE-143&repo=RANDOM&theme=chartreuse-dark"></a>
 <a
