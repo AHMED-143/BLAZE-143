@@ -11,7 +11,7 @@
 
 [![](https://img.shields.io/badge/Messenger-red?logo=Messenger&logoColor=red&labelColor=black)](https://m.me/FarHan.YouR.FatHer.OkH.bbY)
 
-[![Whatsapp](https://img.shields.io/badge/Whatsapp-AHMED.FARHAN-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+8801843961233)
+[![Whatsapp](https://img.shields.io/badge/Whatsapp-MR.PRIME-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+8801843961233)
 
 </p>
 <h1 align="center">
