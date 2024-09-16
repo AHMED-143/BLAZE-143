@@ -27,5 +27,5 @@
 <a href="https://github.com/PRIME-404/PyObsuscate"><img width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=PRIME-404&repo=PyObsuscate&theme=chartreuse-dark"></a>
 <a href="https://github.com/PRIME-404/MR-PRIME"><img width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=PRIME-404&repo=MR-PRIME&theme=chartreuse-dark"></a>
 <a href="https://github.com/PRIME-404/RESERVE"><img width="400" 
-height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=PRIME-403&repo=RESERVE&theme=chartreuse-dark"></a>
+height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=PRIME-404&repo=RESERVE&theme=chartreuse-dark"></a>
 <a
